@@ -37,8 +37,7 @@ button {
 
 .header span {
     font-weight: 900;
-    font-size: 20px;
-    word-break: break-all;
+    font-size: 4vh;
 }
 
 #new {
@@ -100,13 +99,13 @@ tr {
 tbody tr td {
     vertical-align: text-top;
     padding: 6px;
-    max-width: 50px;
+    max-width: 40vh;
 }
 
 thead tr th {
     padding: 5px;
     text-align: start;
-    margin-bottom: 50px;
+    margin-bottom: 40vh;
 }
 
 tbody tr {

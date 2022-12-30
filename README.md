@@ -13,9 +13,10 @@
 <li>Javascript</li>
 
 <p><strong>IDE utlizada:</strong></p>
+
 <p>Visual Studio Code</p>
 
 
 
 
-<p>Para inicializar o projeto, você pode clonar, e rodar na sua máquina, utlizando o live server no visual studio code.</p>
+<p>Para inicializar o projeto, você pode clicar no botão code, no github, para vizualizar as opções de clonar ou baixar a projeto e rodar na sua máquina, utlizando o live server no visual studio code.</p>
