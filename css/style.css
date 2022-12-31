@@ -219,3 +219,9 @@ footer .page-link:hover,
     background: none;
     background: #ffdca9;
 }
+
+@media (max-width: 767px) {
+    thead tr th {
+        padding: 5px;
+    }
+}
